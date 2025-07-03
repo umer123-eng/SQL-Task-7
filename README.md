@@ -27,6 +27,9 @@ SQL E-Commerce database for internship task(day 7)
    ->Understood view limitations and behaviors
    ->Hands-on with real-life view use-cases in joins
 
+
+
+
 | File Name                  | Description                                                 |
 | -------------------------- | ----------------------------------------------------------- |
 | `ViewOperations.sql`       | SQL queries demonstrating creation, update, delete of views |
