@@ -1,2 +1,35 @@
 # SQL-Task-7
 SQL E-Commerce database for internship task(day 7)
+ 
+# SQL Views (Create, Update, Delete & Advanced)
+
+---
+
+ 📚 Objectives
+
+- Create views from single and multiple tables  
+- Insert, update, and delete records via views  
+- Use WITH CHECK OPTION to control data consistency  
+- Understand how views interact with source tables
+
+---
+
+ 🗃️ Tables Used
+
+- StudentDetails: Contains student ID, name, and address  
+- StudentMarks: Contains student ID, marks, and age
+
+
+---
+💡 Learning Outcomes
+   ->Simplified queries using views
+   ->Ensured filtered data entry with WITH CHECK OPTION
+   ->Understood view limitations and behaviors
+   ->Hands-on with real-life view use-cases in joins
+
+👨‍💻 Created By
+Umer Mansuri
+Intern @ Elevate Labs
+July 2025
+
+
