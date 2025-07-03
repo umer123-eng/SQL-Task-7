@@ -8,7 +8,7 @@ SQL E-Commerce database for internship task (Day 7)
 
 📚 Objectives
 
-- Create views from single and multiple tables  
+- Create views from single and multiple tables   
 - Insert, update, and delete records via views  
 - Use WITH CHECK OPTION to control data consistency  
 - Understand how views interact with source tables
