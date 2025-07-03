@@ -1,11 +1,12 @@
+
 # SQL-Task-7
-SQL E-Commerce database for internship task(day 7)
- 
+SQL E-Commerce database for internship task (Day 7)
+
 # SQL Views (Create, Update, Delete & Advanced)
 
 ---
 
- 📚 Objectives
+📚 Objectives
 
 - Create views from single and multiple tables  
 - Insert, update, and delete records via views  
@@ -14,21 +15,23 @@ SQL E-Commerce database for internship task(day 7)
 
 ---
 
- 🗃️ Tables Used
+🗃️ Tables Used
 
 - StudentDetails: Contains student ID, name, and address  
 - StudentMarks: Contains student ID, marks, and age
 
+---
+
+💡 Learning Outcomes
+
+→ Simplified queries using views  
+→ Ensured filtered data entry with WITH CHECK OPTION  
+→ Understood view limitations and behaviors  
+→ Hands-on with real-life view use-cases in joins
 
 ---
-💡 Learning Outcomes
-   ->Simplified queries using views
-   ->Ensured filtered data entry with WITH CHECK OPTION
-   ->Understood view limitations and behaviors
-   ->Hands-on with real-life view use-cases in joins
 
-
-
+📂 Files in this Repo
 
 | File Name                  | Description                                                 |
 | -------------------------- | ----------------------------------------------------------- |
@@ -37,10 +40,9 @@ SQL E-Commerce database for internship task(day 7)
 | `README.md`                | This project overview and view query explanation            |
 | `Screenshot(Day-7).png`    | Output of queries as executed in MySQL Workbench            |
 
+---
 
-👨‍💻 Created By
-Umer Mansuri
-Intern @ Elevate Labs
+👨‍💻 Created By  
+**Umer Mansuri**  
+Intern @ Elevate Labs  
 July 2025
-
-
